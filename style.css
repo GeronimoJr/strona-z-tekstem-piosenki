@@ -3,7 +3,8 @@ body {
 	background-color: #7bf2ea;
 }
 .container {
-	max-width: 500px;
+
+	max-width: 370px;
 	margin: 0 auto;
 	text-align: center;
 }
